@@ -261,6 +261,4 @@ python eval_sts-b.py \
     + SNLI: https://n1p.stanford.edu/projects/snli/snli_1.0.zip
     + Bias-NLI data generate code: https://github.com/sunipa/On-Measuring-and-Mitigating-Biased-Inferences-of-Word-Embeddings/tree/master/word_lists
     + Bias-NLI data: https://drive.google.com/file/d/1eC003yjOHjkp5-TGyVXW1emlV80qB7Yl/view?usp=sharing
-    + Bias STS-B data:
-
    
